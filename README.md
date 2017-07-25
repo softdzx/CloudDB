@@ -1,5 +1,5 @@
 # ClooudDB
-A course project of Advanced Practical Course Cloud Data Bases in Technische Universität München (TUM).
+A distributed key-value storage database with final consistency, as a course project of Advanced Practical Course Cloud Data Bases in Technische Universität München (TUM).
 
 ## How to run
 1. RUN ant build with ./build.xml to build the jar files
