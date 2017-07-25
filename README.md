@@ -1,6 +1,10 @@
 # ClooudDB
 A distributed key-value storage database with final consistency, as a course project of Advanced Practical Course Cloud Data Bases in Technische Universität München (TUM).
 
+Architecture of the model: 
+<p align="center"><img src="https://github.com/yanghanxy/ClooudDB/blob/master/report/overview.png" height="188" width="446"></p>
+
+
 ## How to run
 1. RUN ant build with ./build.xml to build the jar files
 
