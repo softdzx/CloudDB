@@ -2,7 +2,7 @@
 A distributed key-value storage database with final consistency, as a course project of Advanced Practical Course Cloud Data Bases in Technische Universität München (TUM).
 
 Architecture of the model: 
-<p align="center"><img src="https://github.com/yanghanxy/ClooudDB/blob/master/report/overview.png" height="188" width="446"></p>
+<p align="center"><img src="https://github.com/yanghanxy/ClooudDB/blob/master/report/overview.png" height="376" width="892"></p>
 
 
 ## How to run
